@@ -1,0 +1,14 @@
+{
+  "name": "prueba-tecnica-virtualsoft",
+  "version": "1.0.0",
+  "description": "prueba para vacante de qa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
